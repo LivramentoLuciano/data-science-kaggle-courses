@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sql-kaggle-344316",
+  "private_key_id": "71f64f70d8d6bf63c1608822a1355357cd44306f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpvV1V6FXj+6v1\nY69HRdy5N6o3b374hXYHunKfYzPno1dOczt7Fkm6bC5Z8aRAI7JCg7JgDiqHF43b\ncZPc0tjeQR4gN4MQbw7AAtV2Dz8zuU9g5nYLmNqrp1O8sMcpru6g/jSayyfsPw2b\nIbdIluRNMJfd1hTMfdo/QX1OFJzeY0itAfCUEOt8dDnrCuTa2jXNdxwscQq4o9TG\nL5WhRW0DBJEuC6CHIRGzuPWV4njjD/HYCnfzmLvNKQzN2HnvZrZHIziA/Zg4/oen\nCSYY8VAwXsPpHsN4xveVgA78u/9aS7fVYqxVhkNAm4M/9SAdU0/v2XUFsoAxlBx9\n3VaBKOIHAgMBAAECggEASkfceKPcMpEIh7LAGeiw1z1M+EWKwydkp60oTCgVpuEM\nbABxn0P5r+N3xVTCFG+KqyEHBpIsekIMimQB2TlMPrcwf9jLOn3fbpfO4oN5nSET\nY8x3DEwwJb5sHr8d6Vfshfe4/aS6K+DMC3+Nve6Kql0BmMr+/x50TApU076hh5Aj\ntCrQjd9lHa4IsNq+RgGGESa+G1NgZYcsEaajl/2SO+t5w260rVXC2UJ2J86b1AYS\n3atpxYeMYt/2PnhcLhF0027kTCljYjxfyYkVWt0EDC1LAWeLkqBZPsp868G4VUhd\num6SpgLbflpBki2KalkTNuU1ZN+xRp5Qo3OeHecvQQKBgQDplGhM+GM8n7YvOG1M\nnyE2NFy6jP6kiF6BNCSaGLMQNrfajBHjk142ryJEJi6RZlUWcahzVEMkKSTtm+CD\nE6xA9mCcg8uxfm0U3LLnaf0xtjckv7rnorjBDcYeEVtK77LH4ZfcGWAfbgtMbAMD\n9YuwplpIGI80uF7JqjN52/zIRQKBgQC6CELDl9KlZBrjN/nvDzyjvh8Hjt3oSXte\nWIjmjTPwvlLyVxBNYDWJQ4YPY85vkZBzQLHJWEVdkFcEblJFx2XidKVDRbIDMEBz\n85pzNHdzA60FN10HzfOLA6iOP5SnW4YhRU1yJhshK2pwjtSBfDmct3Zam/jlBGMs\nrcdpPDnD2wKBgEP8KRt2FFQ53CoET3PEwULonLDDhv5WnsMWbSzY0Y1/j6WxrSdC\n5mIeOWgCgP1a/psIu9HNjblBrHjoLMGaAUHrNBV6GthvhspSrlPCuqo0cfplP75Z\n01KFcsufm6XE/JFG7Q9n511ehzVYHsyRNHZXBOIFG/FpVFV4D4GBcSLNAoGAUJoB\nq1MdjlFIIQiAvqZAZMWcFh89YEZuMFt1vUaSqY0czSkRxCSaLYXXENXyfH56MqVm\nIlGfhEFkomPWO6uAJlTZwcLxtNX0Jwj181JZKrj9/xOUuCvwiFumbTN5CeXqwIGR\nY5LFEGMKNAh+ZDfZkmAe5HVNqpRzD8mfa6YPdR8CgYAppLq9asHx/l4IiutiHokX\n52a7FJknHzThIS8MtI2jBYnTtV2P935sIdIjs0Ej3tpXSJPUS3vLMITTof/MGX+e\n0SvNj+YubUOVYO6C6GCV7Vlvfy6pLKKjXI3i1R6iQIkSGYlkiZIeUCgZyXtlMzk8\nYfNMnsslo9LMLlXsT8EiBQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sql-kaggle@sql-kaggle-344316.iam.gserviceaccount.com",
+  "client_id": "109178754581725133029",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sql-kaggle%40sql-kaggle-344316.iam.gserviceaccount.com"
+}
