@@ -3,11 +3,11 @@ Cursos de la plataforma Kaggle para el desarrollo de Data Science.
 
 ## Contenidos
 - Python
-- Machine Learning (Intro e Intermedio)
+- Data Visualization (seaborn)
 - SQL (Intro y Avanzado)
+- Machine Learning (Intro e Intermedio)
 
 ## ToDo's
-- Data Visualization (pyplot + seaborn)
 - Time Series
 - Feature Engineering & Data cleaning
 - Deep Learning
